@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Web-16
+- 👋 Hi, I’m @sema
 - 👀 I’m interested in C# and HTML CSS
 - 💞️ I’m looking to collaborate on .
 
